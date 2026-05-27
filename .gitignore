@@ -36,6 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+# Node.js dependencies #
+########################
+node_modules/
+
 # Sample payload files #
 #####################
 # These files are used for testing and should not be included in the repository
